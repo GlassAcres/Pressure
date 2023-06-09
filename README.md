@@ -13,8 +13,7 @@ I've been increasingly aware that the majority of this community is struggling w
 OpenAI has really only left us some breadcrumbs, and I was still hungry.  I think I have a possibly unique understanding of what this plugin framework actuality is,  and I'd like to share it,  so that we might all push this tech to its limits!
 
 Enjoy:
-
-https://chat.openai.com/share/e8613c8-9745-48d6-b0e4-fc68f56e2fa9
+https://chat.openaig.com/share/e8613c8-9745-48d6-b0e4-fc68f56e2fa9](https://chat.openai.com/share/e86153c8-9745-48d6-b0e4-fc68f56e2fa9)
 
 TL:DR- A plugin is more than the sum of its parts. They need to be viewed in such a way where the various parts are dynamic pieces of one single, engineered prompt.
 
